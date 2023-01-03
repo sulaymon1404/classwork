@@ -4,3 +4,144 @@
     padding: 0%;
     font-family: 'Poppins', sans-serif;
 }
+.bymain1{
+    display: flex;
+    justify-content: center;
+}
+.bynavbar{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    height: 75px;
+    align-items: center;
+}
+.byleft ul{
+    display: flex;
+    list-style: none;
+    gap: 32px;
+    font-size: 14px;
+    font-weight: 400;
+    align-items: center;
+}
+.byleft button{
+    font-size: 14px;
+    font-weight: 400;
+    padding: 10px 25px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    letter-spacing: 2px;
+}
+.bymain2{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    height: 62vh;
+    overflow: hidden;
+}
+.bymain22{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;    
+}
+.bymain22 .byleft1{
+    margin-top: 145px;
+    width: 35%;
+}
+.bymain22 .byleft1 h1{
+    font-size: 54px;
+    font-weight: 500;
+    margin-bottom: 18px;
+}
+.bymain22 .byleft1 p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.byleft1 button{
+    padding: 10px 25px;
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+.bymain33{
+    height: 1340px;
+    background-color: #222222;
+    display: flex;
+    justify-content: center;
+}
+.bymain3 .bytxt{
+    width: 495px;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    position: relative;
+    left: 335px;
+}
+.bymain3 .bytxt h3{
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+.bymain3 .bytxt h1{
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 36px;
+    margin-bottom: 45px;
+}
+.byli1{
+    position: relative;
+}
+.bycnt1{
+    width: 380px;
+    height: 490px;
+    background-color: white;
+    border-radius: 10px 10px 0px 0px;
+    height: 293px;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+}
+.bycnt1 img{
+    padding-top: 40px;
+}
+.bydcnt1{
+    height: 190px;
+    background-color: #F2F2F2;
+    width: 380px;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+    padding-top: 38px;
+}
+.byico{
+    position: absolute;
+    top: 260px;
+    left: 160px;
+}
+.bydcnt1 h2{
+    font-size: 24px;
+    font-weight: 400;
+    color: #0278ED;
+}
+.bydcnt1 p{
+    font-size: 14px;
+    font-weight: 400;
+    width: 290px;
+    margin-left: 46px;
+    margin-top: 11px;
+}
+.byli1{
+    display: flex;
+    gap: 16px;
+    margin-bottom: 16px;
+}
+.byli12{
+    position: relative;
+}
+.byli13{
+    position: relative;
+}
+
+
